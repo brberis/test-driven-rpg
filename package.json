@@ -1,0 +1,22 @@
+{
+  "name": "test-driven-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brberis/test-driven-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brberis/test-driven-rpg/issues"
+  },
+  "homepage": "https://github.com/brberis/test-driven-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
